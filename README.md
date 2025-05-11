@@ -35,7 +35,7 @@
 | Backend     | Node.js, Express  |
 | Database    | MongoDB           |
 | Auth        | JWT, Bcrypt       |
-| Deployment  | (Add if deployed) |
+
 
 ---
 
@@ -95,14 +95,14 @@ cd algowars
 
 ```bash
 cd backend/semicolon-main
-npm install
+npm install or npm i
 ```
 
 #### Client
 
 ```bash
 cd ../../frontend
-npm install
+npm install or npm i
 ```
 
 ### 3. Set up environment variables
