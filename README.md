@@ -177,4 +177,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Maintainer
 
-**Your Name** – [@Dani_Boyiii](https://github.com/DaniBoyiii)
+[@Dani_Boyiii](https://github.com/DaniBoyiii)
+[@KK230UYT](https://github.com/KK230UYT)
