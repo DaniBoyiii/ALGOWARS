@@ -31,7 +31,7 @@
 
 | Layer       | Technology        |
 |-------------|-------------------|
-| Frontend    | React, CSS/SCSS   |
+| Frontend    | React, CSS        |
 | Backend     | Node.js, Express  |
 | Database    | MongoDB           |
 | Auth        | JWT, Bcrypt       |
@@ -149,17 +149,14 @@ Basic endpoints include:
 - `GET /api/problems` – Fetch all coding problems  
 - `POST /api/submit` – Submit code and receive verdict  
 
-(For a full list, see API docs in `/backend/semicolon-main/docs` if available.)
+(For a full list, see API docs in `/backend/semicolon-main/docs`)
 
 ---
 
-## 🎯 Future Improvements
-
-- Code editor with syntax highlighting (Monaco)  
-- Real-time leaderboard  
+## 🎯 Future Improvements 
 - Contest mode and timed battles  
-- Multiple language support (Python, Java, etc.)  
-- Admin panel for adding problems  
+- Rooms formation for contests 
+- Upgraded Judge0 API   
 
 ---
 
